@@ -20,7 +20,7 @@ setuptools.setup(
         "certifi==2022.12.07",
         "charset-normalizer==2.1.1",
         "dataclasses-json-speakeasy==0.5.8",
-        "idna==3.3",
+        "idna==3.6",
         "marshmallow==3.17.1",
         "marshmallow-enum==1.5.1",
         "mypy-extensions==0.4.3",
