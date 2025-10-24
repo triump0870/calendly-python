@@ -30,7 +30,7 @@ setuptools.setup(
         "requests==2.32.5",
         "six==1.17.0",
         "typing-inspect==0.8.0",
-        "typing_extensions==4.3.0",
+        "typing_extensions==4.5.0",
         "urllib3==2.0.7",
         "pylint==2.16.2",
     ],
