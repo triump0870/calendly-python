@@ -18,7 +18,7 @@ setuptools.setup(
     packages=setuptools.find_packages(where="src"),
     install_requires=[
         "certifi==2022.12.07",
-        "charset-normalizer==2.1.1",
+        "charset-normalizer==3.0.0",
         "dataclasses-json-speakeasy==0.5.8",
         "idna==3.6",
         "marshmallow==3.17.1",
